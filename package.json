@@ -1,7 +1,7 @@
 {
-  "name": "project-template",
+  "name": "scss-boilerplate",
   "version": "1.0.0",
-  "description": "# SASS (Syntactically Awesome Style Sheet)",
+  "description": "scss-boilerplate",
   "main": "index.js",
   "scripts": {
     "start": "run-p watch watch:styles",
